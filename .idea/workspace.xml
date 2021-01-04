@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="guli vue" />
+    <list default="true" id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="guli vue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <workItem from="1608862183067" duration="1204000" />
       <workItem from="1609223993521" duration="198000" />
       <workItem from="1609224226971" duration="40000" />
-      <workItem from="1609724097478" duration="3193000" />
+      <workItem from="1609724097478" duration="5354000" />
     </task>
     <task id="LOCAL-00001" summary="guli vue">
       <created>1609727395268</created>
@@ -81,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609727395268</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="guli vue">
+      <created>1609727979231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609727979231</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +203,10 @@
     </state>
     <state x="328" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609727881432" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1609224184156" />
+    <state x="254" y="99" key="Vcs.Push.Dialog.v2" timestamp="1609728446326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="254" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609728446326" />
     <state x="566" y="97" width="429" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1609726886568">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
