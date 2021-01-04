@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1k5fSYDhAO1OFYo7jI3BTpuqOni" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="ts.external.directory.path" value="D:\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.list.vue">
+    <configuration name="list.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/gulivue/vue-admin-template-master/src/views/edu/teacher/list.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="save.vue" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/gulivue/vue-admin-template-master/src/views/edu/teacher/save.vue" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.list.vue" />
+      <item itemvalue="JavaScript Debug.save.vue" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.list.vue" />
+        <item itemvalue="JavaScript Debug.save.vue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\hukaiwen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="" />
+      <created>1604995376215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604995376215</updated>
+      <workItem from="1604995377891" duration="3758000" />
+      <workItem from="1605056621503" duration="4367000" />
+      <workItem from="1605143621616" duration="428000" />
+      <workItem from="1606194820769" duration="2368000" />
+      <workItem from="1608107871886" duration="7000" />
+      <workItem from="1608107934125" duration="610000" />
+      <workItem from="1608862183067" duration="1204000" />
+      <workItem from="1609223993521" duration="198000" />
+      <workItem from="1609224226971" duration="40000" />
+      <workItem from="1609724097478" duration="2163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="418" key="#Custom_Plugin_Repositories" timestamp="1609224144894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="418" key="#Custom_Plugin_Repositories/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1609224144894" />
+    <state x="823" y="410" key="#ESLint" timestamp="1605060208518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="410" key="#ESLint/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1605060208518" />
+    <state x="586" y="198" key="#Inspections" timestamp="1605057942365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1605057942365" />
+    <state x="552" y="178" width="816" height="731" key="#Intentions" timestamp="1604996678021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="731" key="#Intentions/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604996678021" />
+    <state x="692" y="156" key="#JSHint" timestamp="1605059725650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="692" y="156" key="#JSHint/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1605059725650" />
+    <state x="748" y="305" key="#Web_Browsers" timestamp="1604999343691">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="748" y="305" key="#Web_Browsers/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999343691" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604999345699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999345699" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604997454999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604997454999" />
+    <state width="681" height="328" key="GridCell.Tab.0.bottom" timestamp="1604999347866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347866" />
+    <state width="681" height="328" key="GridCell.Tab.0.center" timestamp="1604999347866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.0.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347866" />
+    <state width="681" height="328" key="GridCell.Tab.0.left" timestamp="1604999347865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.0.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347865" />
+    <state width="681" height="328" key="GridCell.Tab.0.right" timestamp="1604999347866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.0.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347866" />
+    <state width="681" height="328" key="GridCell.Tab.1.bottom" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.1.center" timestamp="1604999347602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347602" />
+    <state width="681" height="328" key="GridCell.Tab.1.left" timestamp="1604999347602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347602" />
+    <state width="681" height="328" key="GridCell.Tab.1.right" timestamp="1604999347602">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.1.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347602" />
+    <state width="681" height="328" key="GridCell.Tab.2.bottom" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.2.center" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.2.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.2.left" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.2.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.2.right" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.2.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.3.bottom" timestamp="1604999347604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347604" />
+    <state width="681" height="328" key="GridCell.Tab.3.center" timestamp="1604999347604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.3.center/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347604" />
+    <state width="681" height="328" key="GridCell.Tab.3.left" timestamp="1604999347603">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.3.left/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347603" />
+    <state width="681" height="328" key="GridCell.Tab.3.right" timestamp="1604999347604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="681" height="328" key="GridCell.Tab.3.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347604" />
+    <state x="328" y="16" key="SettingsEditor" timestamp="1609726834111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="328" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609726834111" />
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1609224184156" />
+    <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1609726477813">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="154" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1609726477813" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vue-admin-template-master/src/views/edu/teacher/list.vue</url>
+          <line>109</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
