@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="" />
+    <list default="true" id="9cf7a25f-232b-4fc9-955f-60c225e78fbb" name="Default Changelist" comment="guli vue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k5fSYDhAO1OFYo7jI3BTpuqOni" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,7 +30,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="build.tools" />
     <property name="ts.external.directory.path" value="D:\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,12 +72,24 @@
       <workItem from="1608862183067" duration="1204000" />
       <workItem from="1609223993521" duration="198000" />
       <workItem from="1609224226971" duration="40000" />
-      <workItem from="1609724097478" duration="2163000" />
+      <workItem from="1609724097478" duration="3193000" />
     </task>
+    <task id="LOCAL-00001" summary="guli vue">
+      <created>1609727395268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609727395268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="guli vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="guli vue" />
   </component>
   <component name="WindowStateProjectService">
     <state x="832" y="418" key="#Custom_Plugin_Repositories" timestamp="1609224144894">
@@ -104,9 +120,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999345699" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604997454999">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="526" y="192" key="FileChooserDialogImpl" timestamp="1609726900513">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="526" y="192" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1609726900513" />
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604997454999" />
     <state width="681" height="328" key="GridCell.Tab.0.bottom" timestamp="1604999347866">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -172,11 +189,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="681" height="328" key="GridCell.Tab.3.right/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1604999347604" />
-    <state x="328" y="16" key="SettingsEditor" timestamp="1609726834111">
+    <state x="328" y="16" key="SettingsEditor" timestamp="1609727881432">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="328" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609726834111" />
+    <state x="328" y="16" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1609727881432" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1366.0.1366.728@0.0.1920.1040" timestamp="1609224184156" />
+    <state x="566" y="97" width="429" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1609726886568">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="566" y="97" width="429" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.728@0.0.1366.728" timestamp="1609726886568" />
     <state x="513" y="154" key="svn.repositoryBrowser" timestamp="1609726477813">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
